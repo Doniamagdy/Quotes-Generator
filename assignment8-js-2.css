@@ -1,0 +1,42 @@
+body{
+    
+    font-family: 'Rancho', cursive;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+}
+
+
+.section_one{
+    background-image: url(../images/1577428.jpg);
+    height: 50vh;
+
+}
+
+.section_one .layer{
+    
+    background-color: rgba(0, 0, 0, 0.432) ;
+    height: 50vh;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.section_two p{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: 600;
+
+}
+footer div{
+    height:50px;
+}
+
