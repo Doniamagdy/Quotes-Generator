@@ -10,11 +10,7 @@ body{
 
 
 .section_one{
-<<<<<<< HEAD
     background-image: url(../images/1577428.jpg);
-=======
-    background-image: url(1577428.jpg);
->>>>>>> 7a968d4ba6876fcf4801fcfa2dc45e63ef0f9d12
     height: 50vh;
 
 }
@@ -25,15 +21,6 @@ body{
     height: 50vh;
 }
 
-<<<<<<< HEAD
-=======
-.layer h1{
-    font-size: 100px;
-    font-weight: 900;
-}
-
-
->>>>>>> 7a968d4ba6876fcf4801fcfa2dc45e63ef0f9d12
 h1{
     font-size: 60px;
     font-weight: 900;
