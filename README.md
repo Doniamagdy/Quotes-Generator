@@ -15,6 +15,15 @@
 - Bootstrap
 - JavaScript
 
+## 4.Project Structure
+- index.html
+- style.css
+- main.js
 
+## 5.Contact
+- Email: doniabahig92@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/donia-magdy-b6480612b/
+
+#### This project is part of my journey as a Frontend Developer💖
 
   
